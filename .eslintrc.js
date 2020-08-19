@@ -21,6 +21,7 @@ module.exports = {
     '@typescript-eslint',
     'react-native',
     'react-hooks',
+    'jsx-a11y',
   ],
   rules: {
     'prettier/prettier': 'error',
